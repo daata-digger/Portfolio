@@ -198,7 +198,7 @@ import {
   
   const projects = [
     {
-      name: "Real Estate",
+      name: "Housing Facility",
       description:
         "Developed a comprehensive real estate project using the MERN stack, enriched with Google OAuth for robust user authentication. This platform revolutionizes property listings and searches, offering a secure and user-friendly experience.",
       tags: [
@@ -220,44 +220,48 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/daata-digger/Project",
+      source_code_link: "https://github.com/daata-digger/Housing_Facility",
     },
     {
-      name: "Job IT",
+      name: "My Gov",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Built a DevOps-driven website for Prime Minister Narendra Modi, ensuring optimal performance through load balancing, user tracking, and scalable architecture, showcasing our team's expertise in cutting-edge technologies.",
       tags: [
         {
-          name: "react",
+          name: "Linux",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "Nginx",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "Docker",
           color: "pink-text-gradient",
+        },
+        {
+          name: "Ansible",
+          color: "orange-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://www.mygov.in/",
     },
     {
-      name: "Trip Guide",
+      name: "Prediction Model",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Developed an advanced animal tracking system employing machine learning techniques. Leveraged Python, Scikit-Learn, and TensorFlow to build a robust prediction model, enhancing precision and efficiency in monitoring and analyzing animal movements.",
       tags: [
         {
-          name: "nextjs",
+          name: "ScikitLearn  ",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "Python",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "TensorFlow ",
           color: "pink-text-gradient",
         },
       ],
