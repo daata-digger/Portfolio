@@ -129,8 +129,8 @@ import {
       ],
     },
     {
-      title: "Acxiom Consulting",
-      company_name: "IBM",
+      title: "Web Developer",
+      company_name: "Acxiom Consulting",
       icon: shopify,
       iconBg: "#ffffff",
       date: "Aug 2021 - Jan 2022",
