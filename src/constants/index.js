@@ -176,7 +176,7 @@ import {
       name: "Bidyut Baran Mukherjee",
       designation: "CIO",
       company: "Fostering Linux",
-      image: "https://media.licdn.com/dms/image/C4E03AQFwotVcZilDYA/profile-displayphoto-shrink_800_800/0/1516467980020?e=1704326400&v=beta&t=EUj8ULMACJbckp0fylvkrMpLqinTQW3NL_ZUTCcYzr0",
+      image: "https://media.licdn.com/dms/image/C4E03AQFwotVcZilDYA/profile-displayphoto-shrink_800_800/0/1516467980409?e=1709769600&v=beta&t=zAyrCzHEcPcyCq5cO0aUIhBXrX8d-9OfW76PS-YHshk",
     },
     {
       testimonial:
@@ -192,7 +192,7 @@ import {
       name: "Hemant Sharma",
       designation: "Senior Manager",
       company: "Acxiom Consulting",
-      image: "https://media.licdn.com/dms/image/C4D03AQEDMi__gJOKtQ/profile-displayphoto-shrink_800_800/0/1658848238805?e=1704326400&v=beta&t=xL5fzbiyQBTaXWxDdCzR9EdLQaua5IRhXSscuHA6wGM",
+      image: "https://media.licdn.com/dms/image/C4D03AQEDMi__gJOKtQ/profile-displayphoto-shrink_800_800/0/1658848239461?e=1709769600&v=beta&t=vm71xLPQeklzcTVNIomUjOi30Ry2YxhIAzEcLLM8OfQ",
     },
   ];
   
