@@ -42,7 +42,7 @@ import {
   
   const services = [
     {
-      title: "Full Stack",
+      title: "Data Visualization",
       icon: web,
     },
     {
@@ -129,29 +129,29 @@ import {
       ],
     },
     {
-      title: "Web Developer",
+      title: "Data Analyst Intern",
       company_name: "Acxiom Consulting",
       icon: shopify,
       iconBg: "#ffffff",
       date: "Aug 2021 - Jan 2022",
       points: [
-        "AI-Powered Data Analysis: Developed AI-based data analysis for enhanced insights.",
-        "Git Collaboration: Used Git for seamless team collaboration and version control.",
-        "IBM Tool Integration: Integrated IBM Watson Studio and IBM Cloud for streamlined development.",
-        "Data-Driven Insights: Provided actionable insights for informed decision-making.",
+        "Collaborated with executives and team members to analyze Appliances Energy Data using Python, optimizing project efficiency through advanced data preprocessing.",
+        "Reduced errors in ETL pipelines by 15% through meticulous data preprocessing.",
+        "Achieved a 30% improvement in data retrieval by implementing advanced SQL queries.",
+        "Streamlined presentations, resulting in a 20% increase in collaboration requests.",
       ],
     },
     {
-      title: "DevOps Engineer",
+      title: "Data Engineer",
       company_name: "Keen & Able",
       icon: starbucks,
       iconBg: "#ffffff",
       date: "Sept 2022 - Aug 2023",
       points: [
         "Developed and maintained web infrastructure using Docker containers, Linux servers, and load balancing.",
-        "Collaborated with cross-functional teams on high-quality web applications and contributed to the iGot project led by Prime Minister Narendra Modi.",
-        "Focused on infrastructure scalability and reliability, optimizing resources and handling traffic spikes.",
-        "Actively participated in system architecture reviews, providing constructive feedback for improvements.",
+        "Optimized data processing in the iGot project, achieving a 29% efficiency boost using Apache Airflow, Docker, and Apache Kafka.",
+        "Led a team to reduce SLA breaches by 12%, utilizing Kubernetes for orchestration and CI CD for continuous integration.",
+        "Enhanced operational productivity by 22%, leveraging Apache Spark, Kubernetes, Spring Boot, and REST APIs, applying DSA principles for streamlined data workflows.",
       ],
     },
     {
